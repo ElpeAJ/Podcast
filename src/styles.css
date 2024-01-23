@@ -1,0 +1,120 @@
+body {
+  margin: 15px 40px;
+}
+
+.video {
+  width: 42vw;
+  height: 42vh;
+  border-radius: 5%;
+  max-width: 44%;
+  margin: 0px 15px;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 30px 0;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+
+.container {
+  margin: 5px 0px;
+}
+
+.welcome {
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.heading {
+  font-family: cursive, sans-serif;
+}
+
+.people {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 25px;
+}
+
+.emoji {
+  font-size: 25px;
+}
+
+.duration {
+  padding: 10px 0px;
+  opacity: 0.5;
+}
+
+.who {
+  opacity: 0.7;
+  font-style: italic;
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  color: teal;
+}
+
+.convo {
+  display: flex;
+  justify-content: flex-start;
+  background-color: snow;
+  border-radius: 25px;
+  border: 2px solid white;
+}
+
+.convoPara {
+  margin: 0px 9px;
+  line-height: 1.5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.para {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 14px;
+}
+
+p {
+  text-align: justify;
+}
+
+.bye {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 35px;
+  color: blueviolet;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+ul li {
+  display: inline;
+  margin: 5px 15px;
+  padding: 15px 10px 0px;
+  border: 1px solid rgb(14, 110, 51);
+}
+
+a {
+  text-decoration: none;
+  font-weight: 200;
+}
+
+.socialMedia {
+  padding: 10px;
+  background-color: #aaa;
+  border-radius: 7px;
+}
